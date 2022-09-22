@@ -29,5 +29,5 @@ ORDER BY
   year DESC;
 ```
 
-The resultin graph is here:
+The resulting graph is here:
 ![Graph](https://github.com/T-J-Summer/usa_names_theo_caitlin_katia_helen/blob/master/caitlin_theo_katia_helen_in_usa.png)
