@@ -1,6 +1,6 @@
 # This is a small project that shows how the popularity of some names changed in the USA!
 
-You can see the Jupyter notebook [here](https://deepnote.com/workspace/t-j-summer-378b-a69dcfb9-9ce8-41e5-8992-039412d23981/project/Untitled-project-Duplicate-0009537c-10f1-4fdb-9a85-f684514c2288)
+You can see the [Jupyter notebook here](https://deepnote.com/workspace/t-j-summer-378b-a69dcfb9-9ce8-41e5-8992-039412d23981/project/Untitled-project-Duplicate-0009537c-10f1-4fdb-9a85-f684514c2288)
 
 ## The source of data
 
